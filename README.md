@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luffylor" alt="luffylor" /></a> </p>
 
+- 🤝 I’m currently working at **Intuit Mailchimp** 
+
 - 🌱 I’m currently learning **Machine Learning and Prompt engineering**
 
 - 💬 Ask me about **Data Engineering, Kafka Real-time Data Streaming**
